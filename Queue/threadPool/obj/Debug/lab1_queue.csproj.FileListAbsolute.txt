@@ -1,0 +1,21 @@
+D:\BSUIR\5 sem\СПП\lab1_queue\bin\Debug\lab1_queue.exe.config
+D:\BSUIR\5 sem\СПП\lab1_queue\bin\Debug\lab1_queue.exe
+D:\BSUIR\5 sem\СПП\lab1_queue\bin\Debug\lab1_queue.pdb
+D:\BSUIR\5 sem\СПП\lab1_queue\obj\Debug\lab1_queue.csproj.AssemblyReference.cache
+D:\BSUIR\5 sem\СПП\lab1_queue\obj\Debug\lab1_queue.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 sem\СПП\lab1_queue\obj\Debug\lab1_queue.exe
+D:\BSUIR\5 sem\СПП\lab1_queue\obj\Debug\lab1_queue.pdb
+D:\BSUIR\5 sem\СПП\lab1_queue\threadPool\bin\Debug\lab1_queue.exe.config
+D:\BSUIR\5 sem\СПП\lab1_queue\threadPool\bin\Debug\lab1_queue.exe
+D:\BSUIR\5 sem\СПП\lab1_queue\threadPool\bin\Debug\lab1_queue.pdb
+D:\BSUIR\5 sem\СПП\lab1_queue\threadPool\obj\Debug\lab1_queue.csproj.AssemblyReference.cache
+D:\BSUIR\5 sem\СПП\lab1_queue\threadPool\obj\Debug\lab1_queue.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 sem\СПП\lab1_queue\threadPool\obj\Debug\lab1_queue.exe
+D:\BSUIR\5 sem\СПП\lab1_queue\threadPool\obj\Debug\lab1_queue.pdb
+D:\BSUIR\5sem\СПП\lab1_queue\threadPool\bin\Debug\lab1_queue.exe.config
+D:\BSUIR\5sem\СПП\lab1_queue\threadPool\bin\Debug\lab1_queue.exe
+D:\BSUIR\5sem\СПП\lab1_queue\threadPool\bin\Debug\lab1_queue.pdb
+D:\BSUIR\5sem\СПП\lab1_queue\threadPool\obj\Debug\lab1_queue.csproj.AssemblyReference.cache
+D:\BSUIR\5sem\СПП\lab1_queue\threadPool\obj\Debug\lab1_queue.csproj.CoreCompileInputs.cache
+D:\BSUIR\5sem\СПП\lab1_queue\threadPool\obj\Debug\lab1_queue.exe
+D:\BSUIR\5sem\СПП\lab1_queue\threadPool\obj\Debug\lab1_queue.pdb

@@ -1,0 +1,14 @@
+D:\BSUIR\5 sem\СПП\lab1_queue\fileThreads\bin\Debug\fileThreads.exe.config
+D:\BSUIR\5 sem\СПП\lab1_queue\fileThreads\bin\Debug\fileThreads.exe
+D:\BSUIR\5 sem\СПП\lab1_queue\fileThreads\bin\Debug\fileThreads.pdb
+D:\BSUIR\5 sem\СПП\lab1_queue\fileThreads\obj\Debug\fileThreads.csproj.AssemblyReference.cache
+D:\BSUIR\5 sem\СПП\lab1_queue\fileThreads\obj\Debug\fileThreads.csproj.CoreCompileInputs.cache
+D:\BSUIR\5 sem\СПП\lab1_queue\fileThreads\obj\Debug\fileThreads.exe
+D:\BSUIR\5 sem\СПП\lab1_queue\fileThreads\obj\Debug\fileThreads.pdb
+D:\BSUIR\5sem\СПП\lab1_queue\fileThreads\bin\Debug\fileThreads.exe.config
+D:\BSUIR\5sem\СПП\lab1_queue\fileThreads\bin\Debug\fileThreads.exe
+D:\BSUIR\5sem\СПП\lab1_queue\fileThreads\bin\Debug\fileThreads.pdb
+D:\BSUIR\5sem\СПП\lab1_queue\fileThreads\obj\Debug\fileThreads.csproj.AssemblyReference.cache
+D:\BSUIR\5sem\СПП\lab1_queue\fileThreads\obj\Debug\fileThreads.csproj.CoreCompileInputs.cache
+D:\BSUIR\5sem\СПП\lab1_queue\fileThreads\obj\Debug\fileThreads.exe
+D:\BSUIR\5sem\СПП\lab1_queue\fileThreads\obj\Debug\fileThreads.pdb

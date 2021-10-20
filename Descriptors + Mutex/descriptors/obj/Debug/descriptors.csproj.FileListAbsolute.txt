@@ -1,0 +1,14 @@
+D:\BSUIR\5sem\СПП\lab2_mutex\descriptors\bin\Debug\descriptors.exe.config
+D:\BSUIR\5sem\СПП\lab2_mutex\descriptors\bin\Debug\descriptors.exe
+D:\BSUIR\5sem\СПП\lab2_mutex\descriptors\bin\Debug\descriptors.pdb
+D:\BSUIR\5sem\СПП\lab2_mutex\descriptors\obj\Debug\descriptors.csproj.AssemblyReference.cache
+D:\BSUIR\5sem\СПП\lab2_mutex\descriptors\obj\Debug\descriptors.csproj.CoreCompileInputs.cache
+D:\BSUIR\5sem\СПП\lab2_mutex\descriptors\obj\Debug\descriptors.exe
+D:\BSUIR\5sem\СПП\lab2_mutex\descriptors\obj\Debug\descriptors.pdb
+D:\BSUIR\5sem\СПП\lab2\descriptors\bin\Debug\descriptors.exe.config
+D:\BSUIR\5sem\СПП\lab2\descriptors\bin\Debug\descriptors.exe
+D:\BSUIR\5sem\СПП\lab2\descriptors\bin\Debug\descriptors.pdb
+D:\BSUIR\5sem\СПП\lab2\descriptors\obj\Debug\descriptors.csproj.AssemblyReference.cache
+D:\BSUIR\5sem\СПП\lab2\descriptors\obj\Debug\descriptors.csproj.CoreCompileInputs.cache
+D:\BSUIR\5sem\СПП\lab2\descriptors\obj\Debug\descriptors.exe
+D:\BSUIR\5sem\СПП\lab2\descriptors\obj\Debug\descriptors.pdb
